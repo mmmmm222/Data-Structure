@@ -3,5 +3,6 @@
 ## Structures
 
 ~~~
-- Stack Based Array
+- Stack Array Based
+- Stack Linked Based
 ~~~
